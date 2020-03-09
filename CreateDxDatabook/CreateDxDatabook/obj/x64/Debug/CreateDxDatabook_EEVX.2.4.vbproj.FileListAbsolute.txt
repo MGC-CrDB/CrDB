@@ -1,0 +1,4 @@
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\bin\CreateDxDatabook\EEVX.2.4\win64\CreateDxDatabook.exe.config
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\obj\x64\Debug\CreateDxDatabook.exe
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\obj\x64\Debug\CreateDxDatabook.xml
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\obj\x64\Debug\CreateDxDatabook.pdb

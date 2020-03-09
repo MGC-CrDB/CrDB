@@ -1,0 +1,17 @@
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\bin\x86\DxDbClass76.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\bin\x86\DxDbClass76.pdb
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\bin\x86\DxDbClass76.xml
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\bin\x86\System.Data.SQLite.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\Interop.LibraryManager.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\Interop.MGCPCBPartsEditor.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\Interop.MGCPCBReleaseEnvironmentLib.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\DxDbClass_EEVX.2.5.vbproj.ResolveComReference.cache
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\DxDbClass.DialogToolCfg.resources
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\DxDbClass.DlgDbcCfg.resources
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\DxDbClass.frmSelectApp.resources
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\DxDbClass.Resources.resources
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\DxDbClass_EEVX.2.5.vbproj.GenerateResource.cache
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\DxDbClass76.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\DxDbClass76.xml
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\DxDbClass76.pdb
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\fromEEVX.2.6\CreateDxDatabook\DxDbClass\obj\x86\Debug\DxDbClass_EEVX.2.5.vbprojResolveAssemblyReference.cache

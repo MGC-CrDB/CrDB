@@ -1,0 +1,14 @@
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\bin\DxDbClass48.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\bin\DxDbClass48.pdb
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\bin\DxDbClass48.xml
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\bin\System.Data.SQLite.DLL
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Release\Interop.LibraryManager.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Release\Interop.MGCPCBPartsEditor.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Release\DxDbClass_EEVX.2.2.vbproj.ResolveComReference.cache
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Release\DxDbClass.DialogToolCfg.resources
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Release\DxDbClass.DlgDbcCfg.resources
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Release\DxDbClass.Resources.resources
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Release\DxDbClass_EEVX.2.2.vbproj.GenerateResource.Cache
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Release\DxDbClass48.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Release\DxDbClass48.xml
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Release\DxDbClass48.pdb

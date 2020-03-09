@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DxDbClass60
+</name>
+</assembly>
+<members>
+<member name="P:DxDbClass.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DxDbClass.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DxDbClass.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DxDbClass.DxDB.XmlBase.AddChildNode(System.String,System.Xml.XmlElement,System.Xml.XmlNode@)">
+	<summary>
+ Loops from a specified RootNode recursively to the specified ParentNode and
+ appennd a chile node. If RootNode is not specified RootNode is to document root.
+ </summary>
+	<param name="ParentNodeName">Node where child should be appended</param>
+	<param name="DbcChild">Child Node to append</param>
+	<param name="RootNode">Node where recursive search starts</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DxDbClass.DxDB.XmlBase.AddCObArrayElement(System.String,System.Int32)">
+	<summary>
+ Adds a CObArray XML element to any level
+ </summary>
+	<param name="ParentNode">ParentNode for CObArray</param>
+	<param name="ArraySize"> Optional: Defined array size</param>
+	<remarks></remarks>
+</member><member name="M:DxDbClass.DxDB.XmlBase.AddCObArrayChilds(System.Xml.XmlNode@,System.Collections.Generic.List{System.Xml.XmlElement})">
+	<summary>
+ Add a list of XML Elements to CObArray of given XML node.
+ </summary>
+	<param name="CObArrayParent">Parent Node of CObArray</param>
+	<param name="XmlElementArray">Arraylist of XML Elements</param>
+</member><member name="M:DxDbClass.DxDB.XmlBase.UpdateUseCentralLibrarySymbols(System.Xml.XmlElement@)">
+	<summary>
+ Update CConfigAtt UseCentralLibrarySymbols
+ </summary>
+	<param name="LibEntryOk"></param>
+	<remarks></remarks>
+</member><member name="M:DxDbClass.DxDB.XmlBase.UpdateCObArraySize(System.Xml.XmlNode@,System.Int32)">
+	<summary>
+ Updates the CObArray element count of given XML node
+ </summary>
+	<param name="CObArrayParent">Parent Node of CObArray</param>
+	<param name="Size">Value of CXMLTypedPtrArraySize</param>
+</member><member name="M:DxDbClass.DxDB.XmlBase.RemoveCurCObArrayChilds(System.Xml.XmlNode@)">
+	<summary>
+ Save current CObArray elements in ArrayList and delete elements.
+ </summary>
+	<param name="CObArrayParent">Parent Node of CObArray</param>
+	<returns></returns>
+</member>
+</members>
+</doc>

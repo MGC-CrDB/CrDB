@@ -1,0 +1,13 @@
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\bin\DxDbClass76.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\bin\DxDbClass76.pdb
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\bin\DxDbClass76.xml
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Debug\Interop.LibraryManager.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Debug\Interop.MGCPCBPartsEditor.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Debug\DxDbClass_EEVX.2.5.vbproj.ResolveComReference.cache
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Debug\DxDbClass.DialogToolCfg.resources
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Debug\DxDbClass.DlgDbcCfg.resources
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Debug\DxDbClass.Resources.resources
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Debug\DxDbClass_EEVX.2.5.vbproj.GenerateResource.Cache
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Debug\DxDbClass76.dll
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Debug\DxDbClass76.xml
+D:\Users\Thomass\Documents\Programming\VBasic\EEtoolsVX\_LibraryTools\CreateDxDatabook\CreateDxDatabook\CreateDxDatabook\DxDbClass\obj\Debug\DxDbClass76.pdb
