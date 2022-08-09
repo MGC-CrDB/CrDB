@@ -7,6 +7,5 @@ so the utility should rightly be called CrDatabook or CrDB
 Anyway - Here is the link to the Automation and Scripting Commnuty, where you can see more about the details about the utility : 
 https://community.sw.siemens.com/s/question/0D54O00006eo76FSAQ/createdxdatabook-utility-overview
 
-As time permits, I am going to try to grab the documents and discusions in the A&S Community and put a copy here...
 
 
